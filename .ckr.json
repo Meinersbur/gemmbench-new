@@ -1,0 +1,10 @@
+{
+  "data_alias": "gemmbench-new",
+  "data_uoa": "gemmbench-new",
+  "data_uid": "bdab27ca32d2ad62",
+  "data_name": "gemmbench-new",
+  "dict": {
+    "shared": "git",
+    "url": "git@github.com:Meinersbur/gemmbench-new.git"
+  }
+}
